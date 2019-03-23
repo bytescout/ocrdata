@@ -5,10 +5,10 @@ OCR language data files for [ByteScout PDF Extractor SDK](https://bytescout.com/
 
 Folder | Description
 :----- | :----------
-**tessdata_old** | data file for old versions (PDF Extractor SDK 9.* and older, Text Recognition SDK 1.*)
+**tessdata_old** | Data files for old versions (PDF Extractor SDK 9.* and older, Text Recognition SDK 1.* and older)
 **tessdata** | Optimal recognition quality and performance
-**tessdata_fast** - Faster, but lower quality
-**tessdata_best** - The best quality, but slower
+**tessdata_fast** | Faster, but lower quality
+**tessdata_best** | The best quality, but slower
 
 
 Language Code | Language
