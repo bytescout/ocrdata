@@ -11,6 +11,9 @@ Folder | Description
 **tessdata_best** | The best quality, but slower
 
 
+Language codes
+--------------
+
 Language Code | Language
 :------------ | :-------
 afr | Afrikaans
